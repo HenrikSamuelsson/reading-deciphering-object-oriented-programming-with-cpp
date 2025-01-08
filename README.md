@@ -22,3 +22,7 @@ Looked around for books OOP and decided to go for the book Deciphering Object-Or
 - Had credits at Packt to get a pdf of the book for free
 - Teaches C++, a topic that I want to learn more about
 - Book includes exercises, important for solidifying learning
+
+## Resources
+
+[Official GitHub Repository](https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP)
