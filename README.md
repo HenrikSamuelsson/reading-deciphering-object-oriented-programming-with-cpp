@@ -25,4 +25,6 @@ Looked around for books OOP and decided to go for the book Deciphering Object-Or
 
 ## Resources
 
-[Official GitHub Repository](https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP)
+[Official GitHub Repository - Deciphering-Object-Oriented-Programming-with-CPP
+](https://github.com/PacktPublishing/Deciphering-Object-Oriented-Programming-with-CPP)  
+[Opfficiol Youtube Playlist - Code in Action](https://youtube.com/playlist?list=PLeLcvrwLe187nKFWVsXny-k0IIwYUQfm_&si=g1ZgwdvONaPgOcsw)  
