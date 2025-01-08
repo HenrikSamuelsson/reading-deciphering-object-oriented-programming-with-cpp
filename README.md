@@ -15,7 +15,7 @@ Notes on the book Deciphering Object-Oriented Programming with C++.
 
 Currently also reading the book Head First - Design Patterns. This books assumes prior knowledge about object-oriented programming (OOP), and recommends reading a book about this topic.
 
-Looked around for books OOP and decided to go for the book Deciphering Object-Oriented Programming wih C++ based on:
+Looked around for books covvering OOP, and decided to go for the book Deciphering Object-Oriented Programming wih C++ based on:
 
 - Good reviews of the book at Amazon
 - Being a newer book, at the time of writing
