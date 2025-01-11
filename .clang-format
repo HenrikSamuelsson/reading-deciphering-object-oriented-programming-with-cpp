@@ -4,5 +4,6 @@ TabWidth: '4'
 UseTab: Never
 SpacesBeforeTrailingComments: 4
 ColumnLimit: 79
+InsertNewlineAtEOF: true
 
 ...
