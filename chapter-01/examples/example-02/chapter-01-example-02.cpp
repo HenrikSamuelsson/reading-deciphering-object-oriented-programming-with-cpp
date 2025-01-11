@@ -29,6 +29,7 @@ int main()
     // By using setw we won't overflow the input buffer of name.
     cin >> setw(buffSize) >> name;
     // Take out 1000 characters from the buffer but stop if finding a newline.
+    // This is just in case user enters a very very long name.
     cin.ignore(1000, '\n');
 
     cout << "Please enter a grade point average (GPA): ";
