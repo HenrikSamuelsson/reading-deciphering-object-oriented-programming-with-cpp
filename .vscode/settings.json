@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
+        "cout",
+        "endl",
         "Packt"
     ],
     "C_Cpp.formatting": "clangFormat"
