@@ -33,3 +33,6 @@
 
 # Program Database Debugging Symbols
 *.pdb
+
+# Incremental Link files
+*.ilk
